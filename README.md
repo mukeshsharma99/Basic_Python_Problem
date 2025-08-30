@@ -6,7 +6,7 @@ Numbers & Arithmetic
 2. Check if a number is even or odd.
 3. Find the factorial of a number.
 4. Generate a multiplication table for a given number.
-5. Check if a number is prime.
+5. Check if a number is prime.  
 6. Find the sum of digits of a number.
 7. Reverse a number.
 8. Check if a number is a palindrome.
