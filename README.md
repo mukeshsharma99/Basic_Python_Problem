@@ -85,7 +85,7 @@ Abstraction (using abc module)
 68. Create an abstract class Animal with abstract method speak.
 69. Create derived classes Dog and Cat that implement speak.
 ADVANCED OOP PROBLEMS
-70. Design a class Library with methods to add and issue books.
+70. Design a class Library with methods to add and issue books.   
 71. Design a class Student and Course with registration logic.
 72. Build a class Employee with method to calculate salary.
 73. Create a class for basic calculator (add, subtract, etc.)
